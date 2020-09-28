@@ -29,5 +29,8 @@ The UK Hydrographic Office has been using satellite data for [updating their coa
 ### Agriculture
 [Example](https://twitter.com/AgricultureData/status/1306166262796611584) of ODC data being used to look at crop health.
 
+### Assessing land use
+[This](https://twitter.com/USGSLandsat/status/1309173412510793737?s=09) example shows the dramatic change in land use in Northern Paraguay, further information [here](https://landsat.visibleearth.nasa.gov/view.php?id=92078).
+
 ## Current progress
 So where have I got so far?  I’ve installed datacube on a Centos 8 virtual machine and have successfully added the [Landsat 8 product definition file](https://github.com/opendatacube/datacube-core/blob/develop/docs/config_samples/dataset_types/ls8_scenes.yaml).  My next step is to produce the [Dataset Document](https://datacube-core.readthedocs.io/en/latest/ops/indexing.html#dataset-documents).
